@@ -1,21 +1,24 @@
-Program of the (virtual) ISE School 2020
+Program of the virtual ISE School 2020 (tentative)
 
 Wed, July 1, 2020
 
-08:30-09:00 Opening
-09:00-10:30 Trained, not coded – Toward Safe AI in the Automotive Domain, Markus Borg, RISE Research Institute & Lund University, Sweden
-10:30-11:00 Coffee Break
-11:00-12:30 Trained, not coded – Toward Safe AI in the Automotive Domain, Markus Borg, RISE Research Institute & Lund University, Sweden
+07:45-08:00 Opening
+08:00-10:00 Trained, not coded – Toward Safe AI in the Automotive Domain, Markus Borg, RISE Research Institute & Lund University, Sweden
+10:00-10:30 Coffee Break
+10:30-12:00 Trained, not coded – Toward Safe AI in the Automotive Domain, Markus Borg, RISE Research Institute & Lund University, Sweden
+12:00-12:30 Q&A session
 12:30-13:30 Lunch Break
-13:30-13:00 Analyzing Software using Deep Learning, Michael Pradel, University of Stuttgart, Germany
-13:00-13:30 Coffee Break
-15:30-17:00 Analyzing Software using Deep Learning, Michael Pradel, University of Stuttgart, Germany
+13:30-15:30 Analyzing Software using Deep Learning, Michael Pradel, University of Stuttgart, Germany
+15:30-16:00 Coffee Break
+16:00-17:30 Analyzing Software using Deep Learning, Michael Pradel, University of Stuttgart, Germany
+17:30-18:00 Q&A session
 
 Thu, July 2, 2020
 
-09:00-10:30 TBD, Baishakhi Ray, Columbia University, NY, USA
-10:30-11:00 Coffee Break
-11:00-12:30 TBD, Baishakhi Ray, Columbia University, NY, USA
+08:00-10:00 TBD, Baishakhi Ray, Columbia University, NY, USA
+10:00-10:30 Coffee Break
+10:30-12:00 TBD, Baishakhi Ray, Columbia University, NY, USA
+12:00-12:30 Q&A session
 12:30-13:30 Lunch Break
 13:30-15:00 Students' Presentations
 15:00-15:30 Coffee Break
@@ -23,7 +26,8 @@ Thu, July 2, 2020
 
 Fri, July 3, 2020
 
-09:00-10:30 Performance Engineering for Microservices and Serverless Applications: The RADON approach, André van Hoorn, University of Stuttgart, Germany
-10:30-11:00 Coffee Break
-11:00-12:30 Performance Engineering for Microservices and Serverless Applications: The RADON approach, André van Hoorn, University of Stuttgart, Germany
+08:00-10:00 Performance Engineering for Microservices and Serverless Applications: The RADON approach, André van Hoorn, University of Stuttgart, Germany
+10:00-10:30 Coffee Break
+10:30-12:00 Performance Engineering for Microservices and Serverless Applications: The RADON approach, André van Hoorn, University of Stuttgart, Germany
+12:00-12:30 Q&A session
 12:30-13:00 Farewell meeting
